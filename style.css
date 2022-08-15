@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+.weatherBlock h2 {
+    margin: 0;
+    text-align: center;
+}
+.weatherBlock {
+    background-color: rgb(67, 137, 199);
+    padding: 1.5rem;
+    width: 300px;
+}
+.onDay {
+    
+    margin: 1rem;
+    padding: 1.5rem;
+    background: center/350px padding-box no-repeat 
+    url(./Kontur-oblachka_91628.jpg); 
+}
+.onDay h3 {
+    text-align: center;
+}
+.onDay p {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 30px;
+}
